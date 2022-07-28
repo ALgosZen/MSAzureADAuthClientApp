@@ -6,6 +6,7 @@
 AppCreationScripts/
 node_modules/
 .github
+README.txt
 # User-specific files
 *.rsuser
 *.suo
