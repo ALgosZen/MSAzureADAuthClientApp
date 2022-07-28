@@ -13,6 +13,8 @@ const REDIRECT_URI = "http://localhost:3000/redirect";
 
 // Before running the sample, you will need to replace the values in the config, 
 // including the clientSecret
+//get these values from azure AD App registrations -> new registration
+
 const config = {
     auth: {
         clientId: process.env.CLIENT_ID, //application id
